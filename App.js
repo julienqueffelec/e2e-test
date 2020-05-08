@@ -1,23 +1,22 @@
+import randomColor from 'randomcolor';
 import React, {Fragment} from 'react';
 import {
+  Button,
   SafeAreaView,
-  StyleSheet,
   ScrollView,
-  View,
+  StatusBar,
+  StyleSheet,
   Text,
   TextInput,
-  Button,
-  StatusBar,
+  View,
 } from 'react-native';
-
 import {
-  Header,
-  LearnMoreLinks,
   Colors,
   DebugInstructions,
+  Header,
+  LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
-import randomColor from 'randomcolor';
 import SwipeableViews from 'react-swipeable-views-native';
 
 const Slide = ({children}) => (
@@ -73,7 +72,7 @@ const App = () => {
                   testID="docsInput"
                   multiline
                   style={styles.sectionDescription}>
-                  Read the docs to discover what to do next:
+                  Read the doc to discover what to do next:
                 </TextInput>
               </Slide>
             </SwipeableViews>

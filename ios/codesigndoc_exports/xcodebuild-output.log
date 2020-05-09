@@ -1,0 +1,17 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -workspace /Users/julienqueffelec/d/n/a/e2e-react-native-detox/ios/testReactNative.xcworkspace -scheme boost-for-react-native clean archive -archivePath /var/folders/0w/bh8p683571dgpsmz89fd1jvh0000gn/T/__codesigndoc__695748036/boost-for-react-native.xcarchive
+
+User defaults from command line:
+    IDEArchivePathOverride = /var/folders/0w/bh8p683571dgpsmz89fd1jvh0000gn/T/__codesigndoc__695748036/boost-for-react-native.xcarchive
+
+note: Using new build system
+note: Building targets in parallel
+
+** CLEAN SUCCEEDED **
+
+note: Using new build system
+note: Building targets in parallel
+note: Planning build
+note: Constructing build description
+
+** ARCHIVE SUCCEEDED **

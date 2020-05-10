@@ -644,7 +644,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.example.testReactNative99;
 				PRODUCT_NAME = testReactNative;
-				PROVISIONING_PROFILE_SPECIFIER = "Bitrise ios app-store - (org.reactjs.native.example.testReactNative99)";
+				PROVISIONING_PROFILE_SPECIFIER = testReactNative99;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -669,7 +669,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.example.testReactNative99;
 				PRODUCT_NAME = testReactNative;
-				PROVISIONING_PROFILE_SPECIFIER = "Bitrise ios app-store - (org.reactjs.native.example.testReactNative99)";
+				PROVISIONING_PROFILE_SPECIFIER = testReactNative99;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
